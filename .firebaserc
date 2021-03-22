@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechart-75a41": {
+      "hosting": {
+        "firechat": [
+          "firechart-75a41"
+        ]
+      }
+    }
+  }
+}
